@@ -4,12 +4,12 @@ A simple Home Page
 
 By Siran Wang
 
-** My Hobboies **
+*My Hobboies*
 * reading
 * dancing
 * cooking
 
-** My Skills **
+*My Skills*
 * programming
 * artwork
 * editing
