@@ -1,5 +1,6 @@
-## Sample-project
+# Home
 
 A simple Home Page
+By Siran Wang
 
-# MIS225
+### MIS225
